@@ -272,6 +272,24 @@ nav {
   }
 }
 
+table {
+border-collapse: collapse;
+width: 100%
+}
+
+table {
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+table, th, td {
+border: none;
+background: #005ce6;
+border-radius: 10px
+}
+
 .wrapper-footer {
   margin-top: 50px;
   border-top: 1px solid #ddd;
