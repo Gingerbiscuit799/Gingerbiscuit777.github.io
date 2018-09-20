@@ -6,10 +6,10 @@ permalink: /about/
 
 Some information about you!
 
-### More Information
+### ME
 
-A place to include any other types of information that you'd like to include about yourself.
+Hello guys wasssup peeps. u knoiw i got some gd tricks up my sleeve if u friend c7f0t08 on Ps4
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[cftoll@icloud.co.uk](mailto:cftoll@icloud.co.uk)
