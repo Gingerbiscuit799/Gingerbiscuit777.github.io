@@ -6,7 +6,7 @@ permalink: /blog-numero-tres/
 source-id: 18Kd0NonIFUJfvhDpysL1x3oxO15AzpGI3EC-i2GoSkU
 published: true
 ---
-What did I do
+What did we do?
 
 Today we learned how to create a code that, after inserting different numbers into our code, we will be able to have any different code combos. My immediate reaction to this was " What if i was to insert a random number picker, then would we have a random code?" As a matter of fact we would, we would have a random code for any writing. We were also learning how to make the code infinite, for example originally we had only used HELLO WORLD to decode. However if we hadn't of changed the code and written MY NAME IS JOHN, then it wouldn’t work. But by slightly changing the code we could use it with any length of writing. 
 
